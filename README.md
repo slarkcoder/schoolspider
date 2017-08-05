@@ -1,7 +1,7 @@
 # schoolspider
 使用爬虫爬取全国学校数据
 
-相关介绍请看：[](https://slarker.me/school-spider/)
+相关介绍请看：[https://slarker.me/school-spider/](https://slarker.me/school-spider/)
 
 使用前，请先建立虚拟环境，并使用 pip 命令安装相关依赖：
 
